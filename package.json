@@ -1,0 +1,23 @@
+{
+  "name": "vue-hot-reload-component",
+  "version": "0.1.0",
+  "description": "Init Vue components in different files with Hot Reload support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altipla-consulting/vue-hot-reload-component.git"
+  },
+  "keywords": [
+    "vue",
+    "hot-reload"
+  ],
+  "author": "Altipla Consulting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altipla-consulting/vue-hot-reload-component/issues"
+  },
+  "homepage": "https://github.com/altipla-consulting/vue-hot-reload-component#readme"
+}
