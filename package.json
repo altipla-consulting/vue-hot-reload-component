@@ -1,5 +1,5 @@
 {
-  "name": "vue-hot-reload-component",
+  "name": "@altipla/vue-hot-reload-component",
   "version": "0.1.0",
   "description": "Init Vue components in different files with Hot Reload support.",
   "main": "index.js",
