@@ -117,6 +117,9 @@ module.exports = {
   resolve: {
     alias: {
       'vue$': 'vue/dist/vue.esm.js',
+
+      // Remove the following line in production.
+      'vue-hot-reload-component$': 'vue-hot-reload-component/index.dev.js',
     },
   },
 };
